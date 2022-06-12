@@ -8,11 +8,12 @@ Currently, I am available for hire.
 
 - 💬 Ask me about: My journey into Software Development.
 
-- 📫 Reach out to me on : Twitter - [@RealstephenIG](https://twitter.com/REALSTEPHENIG?t=8OzlcGr6SDDfAhoSAae53Q&s=09)
+- 📫 Reach out to me on :point_down: :
+  -  Twitter - [@RealstephenIG](https://twitter.com/REALSTEPHENIG?t=8OzlcGr6SDDfAhoSAae53Q&s=09)
 
-- Email - stephenignatiusbiz@gmail.com
+  - Email - stephenignatiusbiz@gmail.com
                     
-- LinkedIn - [RealstephenIG](https://www.linkedin.com/in/stephen-ignatius-a5422022b)
+  - LinkedIn - [RealstephenIG](https://www.linkedin.com/in/stephen-ignatius-a5422022b)
 
 - 😄 Pronouns: He/Him
 
