@@ -8,7 +8,7 @@ Currently, I am available for hire.
 
 - 💬 Ask me about: My journey into Software Development.
 
-- 📫 Reach out to me on :point_down: :
+- 📫 Reach out to me via :point_down: :
   -  Twitter - [@RealstephenIG](https://twitter.com/REALSTEPHENIG?t=8OzlcGr6SDDfAhoSAae53Q&s=09)
 
   - Email - stephenignatiusbiz@gmail.com
