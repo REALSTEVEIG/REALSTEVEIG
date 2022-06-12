@@ -1,7 +1,7 @@
 ### About Stephen.. 👋
 
-I am a backend Engineer. I'm always eager to learn new things 📚 and solve real world problems with code. 👨‍💻
-Some technologies I enjoy working with include : Javascript, Nodejs, Express, MongoDB and Git. When I'm not coding, i play Chess or watch YouTube videos.
+I am a backend Engineer who always eager to learn new things 📚 and solve real world problems with code. 👨‍💻
+Some technologies I enjoy working with include - Javascript, Nodejs, Express, MongoDB and Git. When I'm not coding, I play Chess or watch YouTube videos.
 
 Currently, I am available for hire.
 
