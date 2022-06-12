@@ -1,16 +1,25 @@
-### Hi there 👋
+### About Stephen.. 👋
 
-<!--
-**REALSTEVEIG/REALSTEVEIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend Engineer. I'm always eager to learn new things 📚 and solve real world problems with code. 👨‍💻
+Some technologies I enjoy working with include : Javascript, Nodejs, Express, MongoDB and Git. When I'm not coding, i play Chess or watch YouTube videos.
 
-Here are some ideas to get you started:
+Currently, I am available for hire.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about: My journey into Software Development.
+
+- 📫 How to reach me: Twitter - [@RealstephenIG](https://twitter.com/REALSTEPHENIG?t=8OzlcGr6SDDfAhoSAae53Q&s=09)
+
+- Email - stephenignatiusbiz@gmail.com
+                    
+- LinkedIn - [RealstephenIG](https://www.linkedin.com/in/stephen-ignatius-a5422022b)
+
+- 😄 Pronouns: He/Him
+
+<hr>
+
+ <h1> :hammer: Projects</h1>
+ 
+ - [E-commerce API](https://e-commerce-web3.herokuapp.com/api-docs/#/)
+ 
+ - [X-Change Web App](https://x-change-mail-sender.herokuapp.com/)
