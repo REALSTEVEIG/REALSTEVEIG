@@ -1,6 +1,6 @@
 ### About Stephen.. 👋
 
-I am a backend Engineer who always eager to learn new things 📚 and solve real world problems with code. 👨‍💻
+I am a backend Engineer who is always eager to learn new things 📚 and solve real world problems with code. 👨‍💻
 Some technologies I enjoy working with include - Javascript, Nodejs, Express, MongoDB and Git. When I'm not coding, I play Chess or watch YouTube videos.
 
 Currently, I am available for hire.
@@ -22,4 +22,4 @@ Currently, I am available for hire.
  
  - [E-commerce API](https://e-commerce-web3.herokuapp.com/api-docs/#/)
  
- - [X-Change Web App](https://x-change-mail-sender.herokuapp.com/)
+ - [X-Change Web App](https://x-change-mail-sender.herokuapp.com/) and many more..
