@@ -21,6 +21,6 @@ Currently, I am available for hire.
 
  <h1> :hammer: Projects</h1>
  
- - [E-commerce API](https://agu-nigeria.herokuapp.com/index)
+ - [E-commerce Website](https://agu-nigeria.herokuapp.com/index)
  
  - [X-Change Web App](https://x-change-mail-sender.herokuapp.com/) and many more..
