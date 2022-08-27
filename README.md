@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **stephenignatiusbiz@gmail.com**
 
-- 📄 Learn about my experiences from my [Reaume] (https://docs.google.com/document/d/1psm0gdImGlAyQWI4qFakBkeDyF-5eGgKO7W_HC6N5hk/edit)
+- 📄 Learn about my experiences from my [Resume](https://docs.google.com/document/d/1psm0gdImGlAyQWI4qFakBkeDyF-5eGgKO7W_HC6N5hk/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
