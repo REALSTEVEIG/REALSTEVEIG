@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [Agu Nigeria](https://agu-nigeria.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://steves-portfolio-x.herokuapp.com/](https://steves-portfolio-x.herokuapp.com/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://steves-portfolio-x.herokuapp.com/)
 
 - 💬 Ask me about **JavaScript, Nodejs and Backend development**
 
 - 📫 How to reach me **stephenignatiusbiz@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1psm0gdImGlAyQWI4qFakBkeDyF-5eGgKO7W_HC6N5hk/edit](https://docs.google.com/document/d/1psm0gdImGlAyQWI4qFakBkeDyF-5eGgKO7W_HC6N5hk/edit)
+- 📄 Learn about my experiences from my [Reaume] (https://docs.google.com/document/d/1psm0gdImGlAyQWI4qFakBkeDyF-5eGgKO7W_HC6N5hk/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
