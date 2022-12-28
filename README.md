@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Agu Nigeria](https://agu-nigeria.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://steves-portfolio-x.herokuapp.com/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://myportfolio-gz6j.onrender.com/)
 
 - 💬 Ask me about **JavaScript, Nodejs and Backend development**
 
