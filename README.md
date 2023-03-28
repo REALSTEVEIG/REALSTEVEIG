@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Ignatius</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsteveig&label=Profile%20views&color=0e75b6&style=flat" alt="realsteveig" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/realstephenig" target="blank"><img src="https://img.shields.io/twitter/follow/realstephenig?logo=twitter&style=for-the-badge" alt="realstephenig" /></a> </p>
 
-- 🔭 I’m currently working on [A web search API](https://github.com/REALSTEVEIG/WEB-SEARCH-API)
+- 🔭 I’m currently working on ThurVPN and Lingo Website
 
 - 🌱 I’m currently learning **Typescript and PostgreSQL**
 
