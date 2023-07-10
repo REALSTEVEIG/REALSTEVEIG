@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ThurVPN
   
 - 🌱 I’m currently learning **GraphQL and PostgreSQL**
-- 
+  
 - 👨‍💻 Check out my [Blog](https://dev.to/realsteveig)
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://myportfolio-gz6j.onrender.com/)
