@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ThurVPN
   
-- 🌱 I’m currently learning **Typescript and PostgreSQL**
+- 🌱 I’m currently learning **GraphQL and PostgreSQL**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://myportfolio-gz6j.onrender.com/)
 
