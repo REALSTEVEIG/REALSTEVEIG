@@ -7,7 +7,7 @@
   
 - 👨‍💻 Check out my [Blog](https://dev.to/realsteveig)
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://stephenig.com//)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://stephenig.com)
 
 - 💬 Ask me about **Typescript, Nodejs and Backend development**
 
