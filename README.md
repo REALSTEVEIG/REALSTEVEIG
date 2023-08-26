@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **stephenignatiusbiz@gmail.com**
 
-- 📄 Learn about my experiences from my [Resume](https://docs.google.com/document/d/1cUeFrO6FpOs_xy_21zMiCJ_Dg6bHzg4Z3QiPd-OJePE)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realstephenig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realstephenig" height="30" width="40" /></a>
