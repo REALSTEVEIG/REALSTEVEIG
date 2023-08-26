@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen Ignatius</h1>
 <h3 align="center">A passionate Backend developer from Abuja, Nigeria</h3>
 
-- 🔭 I’m currently working on ThurVPN
-  
-- 🌱 I’m currently learning **GraphQL and PostgreSQL**
-  
 - 👨‍💻 Check out my [Blog](https://dev.to/realsteveig)
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://stephenig.com)
