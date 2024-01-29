@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Ignatius</h1>
-<h3 align="center">A passionate Softwaren Engineer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Lagos, Nigeria</h3>
 
 - 👨‍💻 Check out my [Blog](https://dev.to/realsteveig)
 
